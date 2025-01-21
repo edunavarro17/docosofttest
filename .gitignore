@@ -1,0 +1,39 @@
+# Build results
+bin/
+obj/
+publish/
+app.publish/
+
+# User-specific files
+*.swp
+*.user
+*.suo
+*.userosscache
+*.userdata
+*.vscode/
+.vscode/
+*.vs
+.vs/
+
+# Log files
+*.log
+
+# DotNet Dependencies
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio
+.vscode/
+.vscode/*
+
+# Docker
+**/Dockerfile
+.dockerignore
+.docker/
+
+# OS generated files
+.DS_Store
+Thumbs.db

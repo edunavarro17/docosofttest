@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOCOSoft", "DOCOSoft\DOCOSoft.csproj", "{81533106-6599-4ED9-8AD3-9CE310B9A8CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOCOSoft.Test", "DOCOSoft.Test\DOCOSoft.Test.csproj", "{9698CF6D-A5E6-45D4-B462-FBB8BF433F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81533106-6599-4ED9-8AD3-9CE310B9A8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81533106-6599-4ED9-8AD3-9CE310B9A8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81533106-6599-4ED9-8AD3-9CE310B9A8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81533106-6599-4ED9-8AD3-9CE310B9A8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9698CF6D-A5E6-45D4-B462-FBB8BF433F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9698CF6D-A5E6-45D4-B462-FBB8BF433F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9698CF6D-A5E6-45D4-B462-FBB8BF433F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9698CF6D-A5E6-45D4-B462-FBB8BF433F19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
